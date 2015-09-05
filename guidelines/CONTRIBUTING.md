@@ -88,8 +88,6 @@ velit accumsan non.
 
 ### Code
 
-### Code
-
 - Code blocks should be followed and preceded by a blank line.
 
 Look at [hackEDU Rules](https://github.com/hackedu/meta/blob/2360c50372eb331cc46c67e6faf5bcdb7d4655d0/markdown_style_guide.md)
