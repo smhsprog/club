@@ -1,6 +1,7 @@
 # Welcome to Programming Club!!
 
-Hi there! This is the San Mateo High School Programming Club repository where we will publish all ours works from the club!
+Hi there! This is the San Mateo High School Programming Club repository where
+we will publish all ours works from the club!
 
 # What do we have here:
 
@@ -8,4 +9,4 @@ Hi there! This is the San Mateo High School Programming Club repository where we
 
 
 
-[Creating c9 account]("http://google.com") 
+[Creating c9 account]("http://google.com")
