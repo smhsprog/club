@@ -5,15 +5,15 @@ a structure.
 
 # Table of Contents
 
-- [Naming conventions](#)
-  - [Branch Names](#)
-  - [Folder Names](#)
-  - [File Names](#)
-- [Markdown structure](#)
-  - [General](#)
-  - [Headers](#)
-  - [Lists](#)
-  - [Code](#)
+- [Naming conventions](#naming-conventions)
+  - [Branch Names](#branch-names)
+  - [Folder Names](#folder-names)
+  - [File Names](#file-names)
+- [Markdown structure](#markdown-structure)
+  - [General](#general)
+  - [Headers](#headers)
+  - [Lists](#lists)
+  - [Code](#code)
 
 ## Naming conventions
 
@@ -85,6 +85,8 @@ velit accumsan non.
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 
 ```
+
+### Code
 
 ### Code
 

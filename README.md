@@ -37,7 +37,7 @@ Workshops held on week-1 to teach about programming!
 
 Meeting Presentations to present during meetings.
 
-### [General Guidelines for the Leaders!](workshops/README.md)
+### [General Guidelines for the Leaders!](guidelines/README.md)
 
 Guidelines for the Leaders to get help from. Cool help from [here](https://github.com/hackedu/hack-camp/blob/248ee44840753ed1892cf6e918cb21cb6db77906/cohort_4/playbook/ACTIVITIES.md).
 
