@@ -25,3 +25,9 @@ most followed by a brief summary. Ex: ``` guidelines: Added some guidelines ```
 and assign another other leader to approve the request. In need of an emergency
 change, make sure you have everything correct by going to the "Files Changed"
 tab in the pull request and accept the request yourself.
+
+Bad Demo Video:
+
+<a href="https://www.youtube.com/watch?v=OWqhTm0rcX4&feature=youtu.be"
+target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
