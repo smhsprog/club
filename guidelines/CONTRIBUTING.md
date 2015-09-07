@@ -32,7 +32,7 @@ a structure.
 
 - All lowercase
 - - as separators
-- All .md files shoudl be capitalized.
+- All .md files should be capitalized.
 
 ## Markdown structure
 
@@ -90,5 +90,5 @@ velit accumsan non.
 
 - Code blocks should be followed and preceded by a blank line.
 
-Look at [hackEDU Rules](https://github.com/hackedu/meta/blob/2360c50372eb331cc46c67e6faf5bcdb7d4655d0/markdown_style_guide.md)
-since they are quite similar.
+Look at [hackEDU Contributing rules](https://github.com/hackedu/meta/blob/2360c50372eb331cc46c67e6faf5bcdb7d4655d0/markdown_style_guide.md)
+as they are quite similar.
