@@ -35,10 +35,10 @@ Contact: dannie.wang8@gmail.com
 
 Workshops held on week-1 to teach about programming!
 
-### [Meeting presentations for Hackers!](meetings/README.md)
+### [Meeting presentations for Hackers](meetings/README.md)
 
 Meeting Presentations to present during meetings.
 
-### [General Guidelines for the Leaders!](guidelines/README.md)
+### [General Guidelines for the Leaders](guidelines/README.md)
 
 Guidelines for the Leaders to get help from. Extra help from [here](https://github.com/hackedu/hack-camp/blob/248ee44840753ed1892cf6e918cb21cb6db77906/cohort_4/playbook/ACTIVITIES.md).
