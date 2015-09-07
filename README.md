@@ -12,7 +12,7 @@ let Hackers use their new knowledge from week-1 to build a project with other
 Hackers. Week-4 will consist of having the Hackers ship their project and
 demoing them to the whole club.
 
-![Programming Club](https://avatars3.githubusercontent.com/u/9454733?v=3&u=f69ad58af2af64608df9a2ec594a7e6ad1cdfaad&s=460)
+<div align="center"><img src="https://avatars3.githubusercontent.com/u/9454733?v=3&u=f69ad58af2af64608df9a2ec594a7e6ad1cdfaad&s=460"></div>
 
 # Who are the leaders?
 
