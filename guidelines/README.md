@@ -47,13 +47,16 @@ Welcome to Programming Club!
 ## Setting Up
 
 - Make sure you have one leader welcoming everyone to the club.
-Ex: ` Welcome
-to Programming Club! Come on in! `
+
+Ex: ` Welcome to Programming Club! Come on in! `
 
 - Have the rest of the leaders talking to new hackers as they come in and create
  a friendly environment.
+
  Ex: `Hello There! I'm Samuel Escapa, one of the
  leaders of this club, what's your name? [Peter] Hi Peter, Welcome!`
+
+ - Have a signup sheet!: [Here](https://docs.google.com/spreadsheets/d/14p7mebY3Sa_BoRtAG8taHM-Q7fw5I8m1jVlSSylV61A/edit?usp=sharing)
 
 ## Presentation
 
@@ -61,11 +64,12 @@ Have a good start presentation after new hackers have settled, introduce all
 leaders and advisor. Talk about __briefly__ what the club is about, and
 split the talking time to all the leaders. Have a transition between each
 person talking.
+
 Ex: `This is why programming is so important. Next Kevin
 will talk about our curriculum for this year.`
 
 
-//Here to down, you are talking to the hackers.
+Here down, you are talking to the hackers.
 
 ## Introductory Talk
 
@@ -99,7 +103,7 @@ will talk about our curriculum for this year.`
 
 - We are going to work in cycles of 4 weeks.
   - 1st week will be Workshops, where we will learn new skills and use previous
-  ones.
+  ones to advance.
   - 2nd and 3rd week will be project time, where you will work with a partner to
    create a project.
   - 4th week will be demo week, everyone will demo and ship their new project to
@@ -107,6 +111,8 @@ will talk about our curriculum for this year.`
 
 
 ## [Ice Breaker](#ice-breakers)
+
+If there is enough time, proceed to do Rock Paper Scissors.
 
 # Ice Breakers
 
@@ -121,7 +127,7 @@ Number: best for 10-30
 Separate the hackers in groups of 3-7, depending on the amount of people there
 are.
 
-Everyone plays rock paper scissors against each other, 1 vs 1 best of 1s.
-If you loose you leave the circle. Now in order to win, (Depending on the number
- of people) you need to be able to remember the names of the people you have
-defeated.
+Everyone plays rock paper scissors against each other, 1 vs 1 best of 1s. They
+must introduce each other to remember names. If you loose you leave the circle.
+Now in order to win, (Depending on the number of people) you need to be able to
+remember the names of the people you have defeated.
