@@ -36,11 +36,6 @@ tab in the pull request and accept the request yourself.
 
 Bad Demo Video:
 
-<<<<<<< Updated upstream
-<a href="https://www.youtube.com/watch?v=OWqhTm0rcX4&feature=youtu.be"
-target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-=======
 <a href="https://www.youtube.com/watch?v=OWqhTm0rcX4&feature=youtu.be">
 <img src="http://img.youtube.com/vi/OWqhTm0rcX4/0.jpg"  
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
@@ -129,4 +124,3 @@ Everyone plays rock paper scissors against each other, 1 vs 1 best of 1s.
 If you loose you leave the circle. Now in order to win, (Depending on the number
  of people) you need to be able to remember the names of the people you have
 defeated.
->>>>>>> Stashed changes
