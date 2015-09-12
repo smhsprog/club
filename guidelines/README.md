@@ -46,11 +46,13 @@ Welcome to Programming Club!
 
 ## Setting Up
 
-- Make sure you have one leader welcoming everyone to the club. Ex: ` Welcome
+- Make sure you have one leader welcoming everyone to the club.
+Ex: ` Welcome
 to Programming Club! Come on in! `
 
 - Have the rest of the leaders talking to new hackers as they come in and create
- a friendly environment. Ex: `Hello There! I'm Samuel Escapa, one of the
+ a friendly environment.
+ Ex: `Hello There! I'm Samuel Escapa, one of the
  leaders of this club, what's your name? [Peter] Hi Peter, Welcome!`
 
 ## Presentation
@@ -58,7 +60,8 @@ to Programming Club! Come on in! `
 Have a good start presentation after new hackers have settled, introduce all
 leaders and advisor. Talk about __briefly__ what the club is about, and
 split the talking time to all the leaders. Have a transition between each
-person talking. Ex: `This is why programming is so important. Next Kevin
+person talking.
+Ex: `This is why programming is so important. Next Kevin
 will talk about our curriculum for this year.`
 
 
@@ -110,11 +113,9 @@ will talk about our curriculum for this year.`
 ### Rock Paper Scissors
 
 ```
-
 Time: 5-15 min
 Materials: none
 Number: best for 10-30
-
 ```
 
 Separate the hackers in groups of 3-7, depending on the amount of people there
