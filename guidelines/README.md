@@ -36,11 +36,6 @@ tab in the pull request and accept the request yourself.
 
 Bad Demo Video:
 
-<<<<<<< Updated upstream
-<a href="https://www.youtube.com/watch?v=OWqhTm0rcX4&feature=youtu.be"
-target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-=======
 <a href="https://www.youtube.com/watch?v=OWqhTm0rcX4&feature=youtu.be">
 <img src="http://img.youtube.com/vi/OWqhTm0rcX4/0.jpg"  
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
@@ -51,11 +46,13 @@ Welcome to Programming Club!
 
 ## Setting Up
 
-- Make sure you have one leader welcoming everyone to the club. Ex: ` Welcome
+- Make sure you have one leader welcoming everyone to the club.
+Ex: ` Welcome
 to Programming Club! Come on in! `
 
 - Have the rest of the leaders talking to new hackers as they come in and create
- a friendly environment. Ex: `Hello There! I'm Samuel Escapa, one of the
+ a friendly environment.
+ Ex: `Hello There! I'm Samuel Escapa, one of the
  leaders of this club, what's your name? [Peter] Hi Peter, Welcome!`
 
 ## Presentation
@@ -63,7 +60,8 @@ to Programming Club! Come on in! `
 Have a good start presentation after new hackers have settled, introduce all
 leaders and advisor. Talk about __briefly__ what the club is about, and
 split the talking time to all the leaders. Have a transition between each
-person talking. Ex: `This is why programming is so important. Next Kevin
+person talking.
+Ex: `This is why programming is so important. Next Kevin
 will talk about our curriculum for this year.`
 
 
@@ -115,11 +113,9 @@ will talk about our curriculum for this year.`
 ### Rock Paper Scissors
 
 ```
-
 Time: 5-15 min
 Materials: none
 Number: best for 10-30
-
 ```
 
 Separate the hackers in groups of 3-7, depending on the amount of people there
@@ -129,4 +125,3 @@ Everyone plays rock paper scissors against each other, 1 vs 1 best of 1s.
 If you loose you leave the circle. Now in order to win, (Depending on the number
  of people) you need to be able to remember the names of the people you have
 defeated.
->>>>>>> Stashed changes
