@@ -1,7 +1,11 @@
 # Welcome to Programming Club!!
 
 Hi there! This is the San Mateo High School Programming Club repository where
-we will publish all of our works from the club!
+we will publish all of our works from the club! This repository is inspired from
+hackEDU's camp as we are part of their association.
+
+[hackEDU](https://hackedu.us)
+[hackEDU Camp](https://github.com/hackedu/hack-camp/tree/248ee44840753ed1892cf6e918cb21cb6db77906/cohort_4/playbook)
 
 The goal of Programming Club is to teach new members about coding and have
 them ship their products every 4 school weeks.
@@ -27,6 +31,10 @@ Contact: rockpopurban@gmail.com
 ### Dannie Wang, co-President
 
 Contact: dannie.wang8@gmail.com
+
+### Sean Chen, co-President
+
+Contact: seanny6@gmail.com
 
 
 # What do we have here:
