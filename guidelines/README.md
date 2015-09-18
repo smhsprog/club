@@ -13,6 +13,7 @@ This folder will contain tools for the Leaders to use for the club:
   - [Curriculum](#curriculum)
   - [Week Cycles](#week-cycles)
 - [Ice Breakers](#ice-breakers)
+  - [Rock Paper Scissors](#rock-paper-scissors)
 
 
 # Maintaining a clean repository
@@ -48,7 +49,7 @@ Welcome to Programming Club!
 
 - Make sure you have one leader welcoming everyone to the club.
 
-Ex: ` Welcome to Programming Club! Come on in! `
+  Ex: ` Welcome to Programming Club! Come on in! `
 
 - Have the rest of the leaders talking to new hackers as they come in and create
  a friendly environment.
@@ -56,7 +57,7 @@ Ex: ` Welcome to Programming Club! Come on in! `
  Ex: `Hello There! I'm Samuel Escapa, one of the
  leaders of this club, what's your name? [Peter] Hi Peter, Welcome!`
 
- - Have a signup sheet!: [Here](https://docs.google.com/spreadsheets/d/14p7mebY3Sa_BoRtAG8taHM-Q7fw5I8m1jVlSSylV61A/edit?usp=sharing)
+- Have a signup sheet: [Here](https://docs.google.com/spreadsheets/d/14p7mebY3Sa_BoRtAG8taHM-Q7fw5I8m1jVlSSylV61A/edit?usp=sharing)
 
 ## Presentation
 
@@ -128,6 +129,6 @@ Separate the hackers in groups of 3-7, depending on the amount of people there
 are.
 
 Everyone plays rock paper scissors against each other, 1 vs 1 best of 1s. They
-must introduce each other to remember names. If you loose you leave the circle.
+must introduce each other to remember names. If you lose you leave the circle.
 Now in order to win, (Depending on the number of people) you need to be able to
 remember the names of the people you have defeated.
