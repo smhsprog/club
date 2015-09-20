@@ -6,14 +6,18 @@ This folder will contain tools for the Leaders to use for the club:
 
 - [Maintaining a clean repository](CONTRIBUTING.md)
 - [Safe Content](#safe-content)
+- [Ice Breakers](#ice-breakers)
+  - [Rock Paper Scissors](#rock-paper-scissors)
+- [General Workshop guidelines](#general-workshop-guidelines)
+ - [Portfolio](#portfolio)
 - [First Meeting](#first-meeting)
   - [Setting Up](#setting-up)
   - [Presentation](#presentation)
   - [Introductory Talk](#introductory-talk)
   - [Curriculum](#curriculum)
   - [Week Cycles](#week-cycles)
-- [Ice Breakers](#ice-breakers)
-  - [Rock Paper Scissors](#rock-paper-scissors)
+- [Distracted hackers](#distracted-hackers)
+  - [Approaching it](#approaching-it)
 
 
 # Maintaining a clean repository
@@ -40,6 +44,78 @@ Bad Demo Video:
 <a href="https://www.youtube.com/watch?v=OWqhTm0rcX4&feature=youtu.be">
 <img src="http://img.youtube.com/vi/OWqhTm0rcX4/0.jpg"  
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+# Ice Breakers
+
+### Rock Paper Scissors
+
+```
+Time: 5-15 min
+Materials: none
+Number: best for 10-30
+```
+
+Separate the hackers in groups of 3-7, depending on the amount of people there
+are.
+
+Everyone plays rock paper scissors against each other, 1 vs 1 best of 1s. They
+must introduce each other to remember names. If you lose you leave the circle.
+Now in order to win, (Depending on the number of people) you need to be able to
+remember the names of the people you have defeated.
+
+# General Workshop Guidelines
+
+Have each workshop structured as it follows:
+
+- Name of workshop
+  - Demoing
+  - What will be learned
+  - During Workshop
+
+Talk about what the hackers will learn, where is it applied. Proceed with a demo
+.
+
+When creating a workshop, have a bit.ly link ready for the hackers.
+
+## Portfolio
+
+Link to workshop: [link](https://github.com/hackedu/hackedu/blob/master/playbook/workshops/portfolio/README.md)
+
+Bit.ly: http://bit.ly/1QqW0Rv
+
+```
+Expected time to finish: 60min.
+Given time: 2 1-week-cycles days ~70min.
+Level: Beginner.
+```
+
+### Demoing
+
+Regular Demo: [link](http://output.jsbin.com/fugoki/2)
+
+What: A personal portfolio with Picture, Heading and a small paragraph.
+
+Advanced Demo: [link](http://jsbin.com/gameyi/2)
+
+Possibilities: Creating social media links, creating an email form, youtube
+video.
+
+### What will be learned
+
+- All websites use html and css. CSS is super important.
+- Hackers will learn how to find solutions by themselves using google.
+- How to use HTML and CSS to create a website.
+
+### During Workshop
+
+Leaders:
+
+- Make sure they fill up the form at the end of the workshop at the end of the
+second day.
+- Provide help to the hackers, insist in using google, tell them to follow the
+lines of: \[Language] (Problem), give an example: spanish How to say hello.
+
+
 
 # First Meeting
 
@@ -115,20 +191,17 @@ Here down, you are talking to the hackers.
 
 If there is enough time, proceed to do Rock Paper Scissors.
 
-# Ice Breakers
+# Distracted Hackers
 
-### Rock Paper Scissors
+Hackers tend to get bored during a workshop especially if it's long. They would
+just roam around the internet and play video games, in some cases, they would
+distract other hackers into it.
 
-```
-Time: 5-15 min
-Materials: none
-Number: best for 10-30
-```
+## Approaching it
 
-Separate the hackers in groups of 3-7, depending on the amount of people there
-are.
-
-Everyone plays rock paper scissors against each other, 1 vs 1 best of 1s. They
-must introduce each other to remember names. If you lose you leave the circle.
-Now in order to win, (Depending on the number of people) you need to be able to
-remember the names of the people you have defeated.
+- Be friendly
+- Don't
+  - seem or get defensive
+  - exert your authority
+  - seem frustrated
+  - All of these will make you look bad.

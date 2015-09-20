@@ -1,7 +1,6 @@
 # Workshops
 
-This folder contains all of our workshops for the club in order as it follows:
+This folder contains all of our workshops from hackEDU, for the club in order as
+ it follows:
 
-1. [portfolio](c9)
-2. [Database](Checklist)
-3. [chat](Chat)
+1. [Portfolio Workshop](https://github.com/hackedu/hackedu/blob/master/playbook/workshops/portfolio/README.md)

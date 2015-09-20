@@ -50,3 +50,11 @@ Meeting Presentations to present during meetings.
 ### [General Guidelines for the Leaders](guidelines/README.md)
 
 Guidelines for the Leaders to get help from. Extra help from [here](https://github.com/hackedu/hack-camp/blob/248ee44840753ed1892cf6e918cb21cb6db77906/cohort_4/playbook/ACTIVITIES.md).
+
+### [Documents](documents/)
+
+In this folder, we will keep all of our printed work such as flyers, logos etc.
+
+### [Schedule](SCHEDULE.md)
+
+Here is our schedule including what we'll work on, week cycles and field trips.
