@@ -8,7 +8,7 @@ This folder will contain tools for the Leaders to use for the club:
 - [Safe Content](#safe-content)
 - [Ice Breakers](#ice-breakers)
   - [Rock Paper Scissors](#rock-paper-scissors)
-- [General Workshop guidelines](#general-worksop-guidelines)
+- [General Workshop guidelines](#general-workshop-guidelines)
  - [Portfolio](#portfolio)
 - [First Meeting](#first-meeting)
   - [Setting Up](#setting-up)
@@ -80,10 +80,10 @@ When creating a workshop, have a bit.ly link ready for the hackers.
 ## Portfolio
 
 Link to workshop: [link](https://github.com/hackedu/hackedu/blob/master/playbook/workshops/portfolio/README.md)
+
 Bit.ly: http://bit.ly/1QqW0Rv
 
 ```
-
 Expected time to finish: 60min.
 Given time: 2 1-week-cycles days ~70min.
 Level: Beginner.
@@ -102,7 +102,7 @@ video.
 
 ### What will be learned
 
-- All website use html and css. CSS is super important.
+- All websites use html and css. CSS is super important.
 - Hackers will learn how to find solutions by themselves using google.
 - How to use HTML and CSS to create a website.
 
@@ -113,7 +113,7 @@ Leaders:
 - Make sure they fill up the form at the end of the workshop at the end of the
 second day.
 - Provide help to the hackers, insist in using google, tell them to follow the
-lines of: [Language] (Problem), give an example: spanish How to say hello.
+lines of: \[Language] (Problem), give an example: spanish How to say hello.
 
 
 
