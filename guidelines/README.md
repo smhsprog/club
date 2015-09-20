@@ -95,7 +95,7 @@ Regular Demo: [link](http://output.jsbin.com/fugoki/2)
 
 What: A personal portfolio with Picture, Heading and a small paragraph.
 
-Advanced Demo: [link](http://output.jsbin.com/rucoralixa)
+Advanced Demo: [link](http://jsbin.com/gameyi/2)
 
 Possibilities: Creating social media links, creating an email form, youtube
 video.
