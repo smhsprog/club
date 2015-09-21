@@ -75,6 +75,8 @@ Have each workshop structured as it follows:
 Talk about what the hackers will learn, where is it applied. Proceed with a demo
 .
 
+Have links ready up and working.
+
 When creating a workshop, have a bit.ly link ready for the hackers.
 
 ## Portfolio
