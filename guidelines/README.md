@@ -16,6 +16,7 @@ This folder will contain tools for the Leaders to use for the club:
   - [Introductory Talk](#introductory-talk)
   - [Curriculum](#curriculum)
   - [Week Cycles](#week-cycles)
+- [General Meetings](#general-meetings)
 - [Distracted hackers](#distracted-hackers)
   - [Approaching it](#approaching-it)
 
@@ -180,18 +181,25 @@ Here down, you are talking to the hackers.
 
 ## Week Cycles
 
-- We are going to work in cycles of 4 weeks.
-  - 1st week will be Workshops, where we will learn new skills and use previous
-  ones to advance.
-  - 2nd and 3rd week will be project time, where you will work with a partner to
+- We are going to work in cycles of 5 weeks.
+  - 1st and 2nd week will be Workshops, where we will learn new skills and use
+  previous ones to advance.
+  - 3nd and 4th week will be project time, where you will work with a partner to
    create a project.
-  - 4th week will be demo week, everyone will demo and ship their new project to
+  - 5th week will be demo week, everyone will demo and ship their new project to
     the club.
 
 
 ## [Ice Breaker](#ice-breakers)
 
 If there is enough time, proceed to do Rock Paper Scissors.
+
+# General Meetings
+
+For General meetings, follow the slides found in the meetings folder
+ accordingly.
+
+Use: `https://docs.google.com/viewer?url=[URL OF RAW PDF]`
 
 # Distracted Hackers
 
