@@ -1,5 +1,10 @@
 # Meetings
 
+For better presentations,
+
+Use: `https://docs.google.com/viewer?url=[URL OF RAW PDF]`
+
+
 Presentations will all be here for each day that we work on.
 
 - [9/14 Intro Meeting, First day](9_14_Meeting_I.pdf)
