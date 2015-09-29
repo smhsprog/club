@@ -117,6 +117,10 @@ Leaders:
 second day.
 - Provide help to the hackers, insist in using google, tell them to follow the
 lines of: \[Language] (Problem), give an example: spanish How to say hello.
+- Create 2 challenges, Advanced and Ultra.
+  - Advanced should be possible for any hacker.
+  - Ultra must be very challenging and difficult.
+  - Make sure to provide the languages the Challenge is possible in.
 
 
 
