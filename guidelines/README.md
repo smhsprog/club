@@ -92,13 +92,13 @@ for(int i = 120; i < 157; i++) {
 
 Each person in each group will have a role:
 
-CEO - Chief Executive Officer
-CTO - Chief Technology Officer
-CFO - Chief Financial Officer
-CDO - Chief Data Officer
-CMO - Chief Manager Officer
-CSO - Chief Strategy Officer
-CIO - Chief Insurance Officer // Just in case
+- CEO - Chief Executive Officer
+- CTO - Chief Technology Officer
+- CFO - Chief Financial Officer
+- CDO - Chief Data Officer
+- CMO - Chief Manager Officer
+- CSO - Chief Strategy Officer
+- CIO - Chief Insurance Officer // Just in case
 
 - CEO Will coordinate everything and retain the i value as well as a log.
   - Ex: `sum = 0, i = 120`
