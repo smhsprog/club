@@ -8,7 +8,7 @@ This folder will contain tools for the Leaders to use for the club:
 - [Safe Content](#safe-content)
 - [Activities](#activities)
   - [Rock Paper Scissors](#rock-paper-scissors)
-  - [For Loop](#human-for-loop)
+  - [For Loop](#human-for-loops)
 - [General Workshop guidelines](#general-workshop-guidelines)
  - [Portfolio](#portfolio)
 - [First Meeting](#first-meeting)
@@ -100,20 +100,19 @@ CMO - Chief Manager Officer
 CSO - Chief Strategy Officer
 CIO - Chief Insurance Officer // Just in case
 
-- CEO Will coordinate everything and retain the i value.
+- CEO Will coordinate everything and retain the i value as well as a log.
   - Ex: `sum = 0, i = 120`
 - CTO Will check if the loop proceeds or not.
-  - Ex: `i < 157 Proceed!` || `i = 157 Don't Proceed!`
+  - Ex: `i < 157 Proceed!` || `i = 157 Don't Proceed! Give result to CEO`
 - CFO Will check if the if-statement is true or false
-  - Ex: 'i % 3 == 0, Go to if' || 'i % 3 not == 1, Go to else'
+  - Ex: `i % 3 == 0, Go to if' || 'i % 3 not == 1, Go to else.`
 - CDO Will conduct the if part
-  - Ex: 'sum = i + sum, here is sum'
+  - Ex: `sum = i + sum, here is sum.`
 - CMO Will conduct the else part
-  - Ex: 'sum = i - sum, here is sum'
+  - Ex: `sum = i - sum, here is sum.`
 - CSO Will increment the value and give it to the CTO
-  - Ex: 'i is i+1, here you go CTO.'
-
-CFO Will direct whether the
+  - Ex: `i is i+1, here you go CTO.`
+- CIO Can help the CEO keep track of the numbers.
 
 # General Workshop Guidelines
 
