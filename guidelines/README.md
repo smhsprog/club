@@ -6,8 +6,9 @@ This folder will contain tools for the Leaders to use for the club:
 
 - [Maintaining a clean repository](CONTRIBUTING.md)
 - [Safe Content](#safe-content)
-- [Ice Breakers](#ice-breakers)
+- [Activities](#activities)
   - [Rock Paper Scissors](#rock-paper-scissors)
+  - [For Loop](#human-for-loops)
 - [General Workshop guidelines](#general-workshop-guidelines)
  - [Portfolio](#portfolio)
 - [First Meeting](#first-meeting)
@@ -46,7 +47,7 @@ Bad Demo Video:
 <img src="http://img.youtube.com/vi/OWqhTm0rcX4/0.jpg"  
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-# Ice Breakers
+# Activities
 
 ### Rock Paper Scissors
 
@@ -63,6 +64,55 @@ Everyone plays rock paper scissors against each other, 1 vs 1 best of 1s. They
 must introduce each other to remember names. If you lose you leave the circle.
 Now in order to win, (Depending on the number of people) you need to be able to
 remember the names of the people you have defeated.
+
+### Human For Loops
+
+```
+Time: 10-20 min
+Materials: Whiteboards
+Number: Groups of 6-10.
+```
+
+This activity involves the hackers to work in a group and solve a for loop. The
+point of this activity is to teach the hackers how for-loops work. Make sure
+you have explained what for loops are, If/Else and briefly talk about variables.
+
+Example for-loop:
+
+```
+sum = 0;
+for(int i = 120; i < 157; i++) {
+  if(i % 3 == 0) {
+    sum = i + sum;
+  } else {
+    sum = i - sum;
+  }
+}
+```
+
+Each person in each group will have a role:
+
+- CEO - Chief Executive Officer
+- CTO - Chief Technology Officer
+- CFO - Chief Financial Officer
+- CDO - Chief Data Officer
+- CMO - Chief Manager Officer
+- CSO - Chief Strategy Officer
+- CIO - Chief Insurance Officer // Just in case
+
+- CEO Will coordinate everything and retain the i value as well as a log.
+  - Ex: `sum = 0, i = 120`
+- CTO Will check if the loop proceeds or not.
+  - Ex: `i < 157 Proceed!` || `i = 157 Don't Proceed! Give result to CEO`
+- CFO Will check if the if-statement is true or false
+  - Ex: `i % 3 == 0, Go to if' || 'i % 3 not == 1, Go to else.`
+- CDO Will conduct the if part
+  - Ex: `sum = i + sum, here is sum.`
+- CMO Will conduct the else part
+  - Ex: `sum = i - sum, here is sum.`
+- CSO Will increment the value and give it to the CTO
+  - Ex: `i is i+1, here you go CTO.`
+- CIO Can help the CEO keep track of the numbers.
 
 # General Workshop Guidelines
 
