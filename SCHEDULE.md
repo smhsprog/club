@@ -10,3 +10,9 @@
 | Wednesday 23 | W1 D2      | [Workshop](meetings/9_23_Meeting_III.pdf) |
 | Monday 28    | W2 D1      | [Workshop](meetings/9_28_Meeting_IV.pdf)  |
 | Wednesday 30 | W2 D2      | [Workshop](meetings/9_30_Meeting_V.pdf)   |
+
+- October
+
+| Date         | Week Cycle | Activity                                      |
+|--------------|:----------:|-----------------------------------------------|
+| Monday 5     | W3 D1      | [Project Week](meetings/10_05_Meeting_VI.pdf) |
