@@ -18,6 +18,7 @@ This folder will contain tools for the Leaders to use for the club:
   - [Curriculum](#curriculum)
   - [Week Cycles](#week-cycles)
 - [General Meetings](#general-meetings)
+- [Project Week](#project-week)
 - [Distracted hackers](#distracted-hackers)
   - [Approaching it](#approaching-it)
 
@@ -251,9 +252,13 @@ If there is enough time, proceed to do Rock Paper Scissors.
 # General Meetings
 
 For General meetings, follow the slides found in the meetings folder
- accordingly.
+accordingly.
 
 Use: `https://docs.google.com/viewer?url=[URL OF RAW PDF]`
+
+# Project Week
+
+//TODO
 
 # Distracted Hackers
 
