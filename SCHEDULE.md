@@ -13,6 +13,7 @@
 
 - October
 
-| Date         | Week Cycle | Activity                                      |
-|--------------|:----------:|-----------------------------------------------|
-| Monday 5     | W3 D1      | [Project Week](meetings/10_05_Meeting_VI.pdf) |
+| Date         | Week Cycle | Activity                                       |
+|--------------|:----------:|------------------------------------------------|
+| Monday 5     | W3 D1      | [Project Week](meetings/10_05_Meeting_VI.pdf)  |
+| Wednesday 13 | W3 D2      | [Project Week](meetings/10_14_Meeting_VII.pdf) |
