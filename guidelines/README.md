@@ -32,15 +32,15 @@ Follow [CONTRIBUTING.md](CONTRIBUTING.md) rules to help build this club!
 To make sure no files are lost and avoid confusion, follow the following rules:
 
 1. When editing, making or deleting files, you must create a separate
-branch or commit to a branch, never commit to master branch.
+   branch or commit to a branch, never commit to master branch.
 2. If you do create a new branch, name it with whatever you have edited the
-most. Ex: `guidelines`
+   most. Ex: `guidelines`
 3. When committing to a branch, name it first with whatever you have edited the
-most followed by a brief summary. Ex: `guidelines: Added some guidelines`
+   most followed by a brief summary. Ex: `guidelines: Added some guidelines`
 4. Once done, do a pull request, which will be named with the commit name,
-and assign another other leader to approve the request. In need of an emergency
-change, make sure you have everything correct by going to the "Files Changed"
-tab in the pull request and accept the request yourself.
+   and assign another other leader to approve the request. In need of an
+   emergency change, make sure you have everything correct by going to the
+   "Files Changed" tab in the pull request and accept the request yourself.
 
 Bad Demo Video:
 
@@ -165,9 +165,9 @@ video.
 Leaders:
 
 - Make sure they fill up the form at the end of the workshop at the end of the
-second day.
+  second day.
 - Provide help to the hackers, insist in using google, tell them to follow the
-lines of: \[Language] (Problem), give an example: spanish How to say hello.
+  lines of: \[Language] (Problem), give an example: spanish How to say hello.
 - Create 2 challenges, Advanced and Ultra.
   - Advanced should be possible for any hacker.
   - Ultra must be very challenging and difficult.
@@ -183,12 +183,12 @@ Welcome to Programming Club!
 
 - Make sure you have one leader welcoming everyone to the club.
 
-  Ex: ` Welcome to Programming Club! Come on in! `
+Ex: ` Welcome to Programming Club! Come on in! `
 
 - Have the rest of the leaders talking to new hackers as they come in and create
- a friendly environment.
+  a friendly environment.
 
- Ex: `Hello There! I'm Samuel Escapa, one of the
+Ex: `Hello There! I'm Samuel Escapa, one of the
  leaders of this club, what's your name? [Peter] Hi Peter, Welcome!`
 
 - Have a signup sheet: [Here](https://docs.google.com/spreadsheets/d/14p7mebY3Sa_BoRtAG8taHM-Q7fw5I8m1jVlSSylV61A/edit?usp=sharing)
@@ -210,27 +210,27 @@ Here down, you are talking to the hackers.
 
 - Why is programming awesome?
   - Programming brings unlimited opportunities to anybody in the
-  world with the right technologies.
+    world with the right technologies.
   - Make School Founder Jeremy Rossman had this great speech.
   - Your smartphone is more powerful than the computer we used to send a human
-  to the moon.
+    to the moon.
   - Only 60 years ago, our technologies would have been considered magic. And
-  in a world where magic exists, there are people who know how to use magic,
-  and then there are muggles.
+    in a world where magic exists, there are people who know how to use magic,
+    and then there are muggles.
   - You want to be in category A.
   - Every year that goes by, there are more and more industries that can be
-  transformed by computers. In fact, it's hard to think of an industry that
-  won't be disrupted by technology.
+    transformed by computers. In fact, it's hard to think of an industry that
+    won't be disrupted by technology.
   - If you were the king of the Roman Empire in 25, you would have ruled over
-  56.8 million people. But by 2016, 2 billion consumers will have smartphones,
-  which means you can impact 2 billion lives.
+    56.8 million people. But by 2016, 2 billion consumers will have smartphones,
+    which means you can impact 2 billion lives.
 
 ## Curriculum
 
 - What are we learning this year.
   - We are going to learn how to make great websites and web applications!
   - Starting briefly with HTML/CSS (It's totally fine if you don't
-   know what it is)
+    know what it is)
   - We will then proceed with Javascript and Node.js.
   - Microsoft, Paypal, Quizlet and surprisingly Walmart use Node.js.
 
@@ -238,9 +238,9 @@ Here down, you are talking to the hackers.
 
 - We are going to work in cycles of 5 weeks.
   - 1st and 2nd week will be Workshops, where we will learn new skills and use
-  previous ones to advance.
-  - 3nd and 4th week will be project time, where you will work with a partner to
-   create a project.
+    previous ones to advance.
+  - 3rd and 4th week will be project time, where you will work with a partner to
+    create a project.
   - 5th week will be demo week, everyone will demo and ship their new project to
     the club.
 

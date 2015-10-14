@@ -36,13 +36,14 @@ a structure.
 
 ## Markdown structure
 
-To create nice looking markdown files, use: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+To create nice looking markdown files, use:
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 When creating .md (markdown) files, follow the following rules:
 
 ### General
 
 - Wrap all lines at 80 characters unless it's a long link preventing it from
-  occuring
+  occurring.
 - Make sure to put break lines between any markdown element
 
 Good:
@@ -88,5 +89,6 @@ velit accumsan non.
 
 - Code blocks should be followed and preceded by a blank line.
 
-Look at [hackEDU Contributing rules](https://github.com/hackedu/meta/blob/2360c50372eb331cc46c67e6faf5bcdb7d4655d0/markdown_style_guide.md)
+Look at
+[hackEDU Contributing rules](https://github.com/hackedu/meta/blob/2360c50372eb331cc46c67e6faf5bcdb7d4655d0/markdown_style_guide.md)
 as they are quite similar.
