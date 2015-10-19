@@ -13,4 +13,5 @@ Presentations will all be here for each day that we work on.
 - [9/28 Meeting IV, Week 2 Day 1](9_28_Meeting_IV.pdf)
 - [9/30 Meeting V, Week 2 Day 2](9_30_Meeting_V.pdf)
 - [10/5 Meeting VI, Week 3 Day 1](10_05_Meeting_VI.pdf)
-- [10/14 Meeting VI, Week 3 Day 2](10_14_Meeting_VII.pdf)
+- [10/14 Meeting VI, Week 3 Day 2 \[Cancelled\]]()
+- [10/19 Meeting VI, Week 3 Day 1](10_19_Meeting_VII.pdf)
