@@ -15,3 +15,4 @@ Presentations will all be here for each day that we work on.
 - [10/5 Meeting VI, Week 3 Day 1](10_05_Meeting_VI.pdf)
 - [10/14 Meeting VI, Week 3 Day 2 \[Cancelled\]]()
 - [10/19 Meeting VI, Week 3 Day 1](10_19_Meeting_VII.pdf)
+- [10/21 Meeting VI, Week 3 Day 1](10_21_Meeting_VIII.pdf)
