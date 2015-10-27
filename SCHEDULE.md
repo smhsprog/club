@@ -19,3 +19,4 @@
 | Wednesday 13 | W3 D2      | Cancelled                                      |
 | Monday 19    | W3 D1      | [Project Week](meetings/10_19_Meeting_VII.pdf) |
 | Wednesday 21 | W3 D2      | [Project Week](meetings/10_21_Meeting_VIII.pdf)|
+| Monday 26    | W4 D1      | [Project Week](meetings/10_26_Meeting_IX.pdf)  |
