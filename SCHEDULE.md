@@ -31,3 +31,4 @@
 | Monday 2     | W5 D1      | Cancelled                                      |
 | Wednesday 4  | W5 D2      | [Project Week](meetings/11_04_Meeting_XI.pdf)  |
 | Monday 16    | W1 D1      | [Project Week](meetings/11_16_Meeting_XII.pdf) |
+| Wednesday 18 | W1 D2      | [Project Week](meetings/11_18_Meeting_XIII.pdf)|
