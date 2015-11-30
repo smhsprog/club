@@ -5,6 +5,7 @@ a structure.
 
 # Table of Contents
 
+- [Submitting a Pull Request](#submitting-a-pull-request)
 - [Naming conventions](#naming-conventions)
   - [Branch Names](#branch-names)
   - [Folder Names](#folder-names)
@@ -14,6 +15,8 @@ a structure.
   - [Headers](#headers)
   - [Lists](#lists)
   - [Code](#code)
+
+## Submitting a Pull Request
 
 ## Naming conventions
 

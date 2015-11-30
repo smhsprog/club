@@ -29,7 +29,8 @@
 | Date         | Week Cycle | Activity                                       |
 |--------------|:----------:|------------------------------------------------|
 | Monday 2     | W5 D1      | Cancelled                                      |
-| Wednesday 4  | W5 D2      | [Project Week](meetings/11_04_Meeting_XI.pdf)  |
-| Monday 16    | W1 D1      | [Project Week](meetings/11_16_Meeting_XII.pdf) |
-| Wednesday 18 | W1 D2      | [Project Week](meetings/11_18_Meeting_XIII.pdf)|
-| Monday 23    | W2 D1      | [Project Week](meetings/11_23_Meeting_XIV.pdf)|
+| Wednesday 4  | W5 D2      | [Demo Week](meetings/11_04_Meeting_XI.pdf)     |
+| Monday 16    | W1 D1      | [Workshop Week](meetings/11_16_Meeting_XII.pdf)|
+| Wednesday 18 | W1 D2      | [Workshop Week](meetings/11_18_Meeting_XIII.pdf)|
+| Monday 23    | W2 D1      | [Workshop Week](meetings/11_23_Meeting_XIV.pdf)|
+| Monday 30    | W3 D1      | [Project Week](meetings/11_30_Meeting_XV.pdf)  |
