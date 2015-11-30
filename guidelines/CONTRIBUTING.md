@@ -18,6 +18,72 @@ a structure.
 
 ## Submitting a Pull Request
 
+- What you need:
+  - [Git](https://git-scm.com/) installed.
+  - [Github](https://github.com/) account with contributing priviledges.
+
+### Getting Familiar with Terminal/Command Prompt
+
+- What are those???
+  - Terminal or Command Prompt are a tool in which you can type commands to
+    perform specific tasks, as opposed to using mouse and clicks.
+  - This means better control, faster navigation and saving tons of time.
+- Where is it?
+  - You can find Terminal in your 'Application' folder under 'Utilities'.
+    (/Applications/Utilities)
+  - [DOUBLE CHECK] For Command Prompt:
+    Press Win+R and type git cmd, then press enter. This will open
+    command prompt. Otherwise, find Git CMD (search) and open it.
+- How to use Terminal [Mac]:
+  - Typing ```cd FOLDER``` will allow you to go into FOLDER.
+    - Typing ```cd ..``` will allow you to go back 1 folder.
+  - Typing ```ls``` will you give you the current FOLDERS you can 'cd' into.
+  - Typing ```pwd``` will give you your current location in the folders.
+  - Typing ```mkdir wow``` will create a folder with name 'wow' in the current
+    directory you are in (Type 'pwd' to find out where you are).
+- How to use Command Prompt [Windows]:
+  - Typing ```cd FOLDER``` will allow you to go into FOLDER.
+    - Typing ```cd ..``` will allow you to go back 1 folder.
+  - Typing ```dir``` will you give you the current FOLDERS you can 'cd' into.
+  - Typing ```echo %cd%``` will give you your current location in the folders.
+  - Typing ```mkdir wow``` will create a folder with name 'wow' in the current
+    directory you are in (Type 'echo %cd%' to find out where you are).
+
+### Getting Started
+
+- You want to navigate to a folder that is easily accessible, so that you don't
+  need to 'cd' into a lot of folders. When you make your edits, you need to be
+  in the main folder holding all of your edits.
+- For this case, this tutorial will create a folder in Desktop and do the edits
+  from there.
+1. Opening Terminal
+2. ```cd Desktop```
+3. ``mkdir workspace```
+- Now you can run this command: ```git clone https://github.com/SMHS-Programming/club.git```
+- So now you have created a direct clone of the repository, in this case in
+  Desktop/workspace/club.
+
+// TODO
+
+### Everytime you do edits
+
+Run BEFORE Making your changes:
+
+1. ```git checkout master && git fetch origin master ```
+2. ```git pull --rebase origin master```
+  - If that doesn't work: ```git reset --hard origin/master```
+  - Followed by" ```git pull --rebase origin master```.
+3. ```git checkout -b BRANCH-NEW-NAME```
+
+Make changes to your files etc. Then run:
+
+1. ```git add --all```
+2. ```git commit -m "DESCRIPTION"```
+3. ```git push origin [BRANCH-NEW-NAME]```
+
+After that, go into: [https://github.com/SMHS-Programming/club](https://github.com/SMHS-Programming/club)
+and fill up the 'Compare & pull request' button.
+
 ## Naming conventions
 
 ### Branch Names
