@@ -33,4 +33,10 @@
 | Monday 16    | W1 D1      | [Workshop Week](meetings/11_16_Meeting_XII.pdf)|
 | Wednesday 18 | W1 D2      | [Workshop Week](meetings/11_18_Meeting_XIII.pdf)|
 | Monday 23    | W2 D1      | [Workshop Week](meetings/11_23_Meeting_XIV.pdf)|
-| Monday 30    | W3 D1      | [Project Week](meetings/11_30_Meeting_XV.pdf)  |
+| Monday 30    | W3 D1      | Cancelled                                      |
+
+- December
+
+| Date         | Week Cycle | Activity                                       |
+|--------------|:----------:|------------------------------------------------|
+| Wednesday 2  | W3 D2      | [Workshop Week](meetings/12_02_Meeting_XV.pdf) |
