@@ -39,4 +39,4 @@
 
 | Date         | Week Cycle | Activity                                       |
 |--------------|:----------:|------------------------------------------------|
-| Wednesday 2  | W3 D2      | [Workshop Week](meetings/12_02_Meeting_XV.pdf) |
+| Wednesday 2  | W3 D2      | [Project Week](meetings/12_02_Meeting_XV.pdf)  |
