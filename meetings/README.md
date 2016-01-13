@@ -7,7 +7,7 @@ Use: `https://docs.google.com/viewer?url=[URL OF RAW PDF]`
 
 Presentations will all be here for each day that we work on.
 
-- 2015:
+### 2015:
 - [9/14 Intro Meeting, First day](2015_9_14_Meeting_I.pdf)
 - [9/21 Meeting II, Week 1 Day 1](2015_9_21_Meeting_II.pdf)
 - [9/23 Meeting III, Week 1 Day 2](2015_9_23_Meeting_III.pdf)
@@ -27,6 +27,6 @@ Presentations will all be here for each day that we work on.
 - [11/30 Meeting XV, Week 3 Day 1 \[Cancelled\]](2015_11_30_Meeting_XV.pdf)
 - [12/02 Meeting XV, Week 3 Day 2 \[Cancelled\]](2015_12_02_Meeting_XV.pdf)
 
-- 2016:
-- [01/1 Meeting XVI, Week 2 Day 1](2016_01_10_Meeting_XVI.pdf)
-- [01/13 Meeting XVI, Week 2 Day 1](2016_01_13_Meeting_XVII.pdf)
+### 2016:
+- [01/1 Meeting XVI, Week 4 Day 1](2016_01_11_Meeting_XVI.pdf)
+- [01/13 Meeting XVI, Week 4 Day 2](2016_01_13_Meeting_XVII.pdf)
