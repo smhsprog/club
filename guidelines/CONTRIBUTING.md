@@ -22,12 +22,19 @@ a structure.
   - [Git](https://git-scm.com/) installed.
   - [Github](https://github.com/) account with contributing priviledges.
 
+### What is a Pull Request
+
+- A Pull Request is a request with changes to the files in the repository.
+- It needs to be approved by an "admin", in this case one the club leaders.
+
 ### Getting Familiar with Terminal/Command Prompt
 
 - What are those???
-  - Terminal or Command Prompt are a tool in which you can type commands to
+  - Terminal or Command Prompt are tools in which you can type commands to
     perform specific tasks, as opposed to using mouse and clicks.
   - This means better control, faster navigation and saving tons of time.
+  - You can use the following commands in order to access folders and files
+    instead of the simple click-and-open.
 - Where is it?
   - You can find Terminal in your 'Application' folder under 'Utilities'.
     (/Applications/Utilities)
@@ -35,7 +42,8 @@ a structure.
     Press Win+R and type git cmd, then press enter. This will open
     command prompt. Otherwise, find Git CMD (search) and open it.
 - How to use Terminal [Mac]:
-  - Typing ```cd FOLDER``` will allow you to go into FOLDER.
+  - Typing ```cd FOLDER``` will allow you to go into FOLDER. -- stands for
+    - ```command directory```.
     - Typing ```cd ..``` will allow you to go back 1 folder.
   - Typing ```ls``` will you give you the current FOLDERS you can 'cd' into.
   - Typing ```pwd``` will give you your current location in the folders.
