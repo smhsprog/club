@@ -29,4 +29,5 @@ Presentations will all be here for each day that we work on.
 
 ### 2016:
 - [01/1 Meeting XVI, Week 4 Day 1](2016_01_11_Meeting_XVI.pdf)
-- [01/13 Meeting XVI, Week 4 Day 2](2016_01_13_Meeting_XVII.pdf)
+- [01/13 Meeting XVII, Week 4 Day 2](2016_01_13_Meeting_XVII.pdf)
+- [01/20 Meeting XVIII, Week 5 Day 2](2016_01_20_Meeting_XVIII.pdf)
