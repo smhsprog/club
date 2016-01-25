@@ -25,9 +25,9 @@ Presentations will all be here for each day that we work on.
 - [11/18 Meeting XIII, Week 1 Day 2](2015_11_18_Meeting_XIII.pdf)
 - [11/23 Meeting XIV, Week 2 Day 1](2015_11_23_Meeting_XIV.pdf)
 - [11/30 Meeting XV, Week 3 Day 1 \[Cancelled\]](2015_11_30_Meeting_XV.pdf)
-- [12/02 Meeting XV, Week 3 Day 2 \[Cancelled\]](2015_12_02_Meeting_XV.pdf)
+- [12/02 Meeting XV, Week 3 Day 2 ](2015_12_02_Meeting_XV.pdf)
 
 ### 2016:
-- [01/1 Meeting XVI, Week 4 Day 1](2016_01_11_Meeting_XVI.pdf)
-- [01/13 Meeting XVII, Week 4 Day 2](2016_01_13_Meeting_XVII.pdf)
-- [01/20 Meeting XVIII, Week 5 Day 2](2016_01_20_Meeting_XVIII.pdf)
+- [01/11 Meeting XVI, Week 4 Day 1 \[Cancelled\]](2016_01_11_Meeting_XVI.pdf)
+- [01/13 Meeting XVI, Week 4 Day 2](2016_01_13_Meeting_XVI.pdf)
+- [01/20 Meeting XVII, Week 5 Day 2](2016_01_20_Meeting_XVII.pdf)

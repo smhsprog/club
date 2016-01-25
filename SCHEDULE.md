@@ -48,6 +48,6 @@
 
 | Date         | Week Cycle | Activity                                       |
 |--------------|:----------:|------------------------------------------------|
-| Monday 11    | W4 D1      | [Project Week](meetings/2016_01_11_Meeting_XVI.pdf)  |
-| Wednesday 13 | W4 D2      | [Project Week](meetings/2016_01_13_Meeting_XVII.pdf)  |
-| Wednesday 20 | W5 D2      | [Project Week](meetings/2016_01_20_Meeting_XVIII.pdf)  |
+| Monday 11    | W4 D1      | Cancelled  |
+| Wednesday 13 | W4 D2      | [Project Week](meetings/2016_01_13_Meeting_XVI.pdf)  |
+| Wednesday 20 | W5 D2      | [Project Week](meetings/2016_01_20_Meeting_XVII.pdf)  |
