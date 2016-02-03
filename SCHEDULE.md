@@ -54,3 +54,9 @@
 | Monday 25 | W1 D1      | [Workshop](meetings/2016_01_25_Meeting_XVIII.pdf)  |
 | Tuesday 26 | InfoMeet   | [Los Altos Hacks Informational Meet](meetings/2016_01_26_Los_Altos_Hacks.pdf)  |
 | Wednesday 27 | W1D2   | [Workshop](meetings/2016_01_27_Meeting_XIX.pdf)  |
+
+- February
+
+| Date         | Week Cycle | Activity                                       |
+|--------------|:----------:|------------------------------------------------|
+| Monday 03 | W2D1   | [Workshop](meetings/2016_02_03_Meeting_XX.pdf)  |
