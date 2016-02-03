@@ -34,3 +34,4 @@ Presentations will all be here for each day that we work on.
 - [01/25 Meeting XVIII, Week 1 Day 1](2016_01_25_Meeting_XVIII.pdf)
 - [Los Altos Hacks Info Meeting](2016_01_26_Los_Altos_Hacks.pdf)
 - [01/27 Meeting XIX, Week 1 Day 2](2016_01_27_Meeting_XIX.pdf)
+- [02/03 Meeting XX, Week 2 Day 1](2016_02_03_Meeting_XX.pdf)
