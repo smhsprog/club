@@ -4,7 +4,7 @@ Hi there! This is the San Mateo High School Programming Club repository where
 we will publish all of our works from the club! This repository is inspired from
 Hack Club's summer camp as we are part of their association.
 
-[Hack Club](https://hackclub.io/)
+[Hack Club](https://hackclub.com/)
 [Hack Club's Camp](https://github.com/hackclub/hack-camp/tree/248ee44840753ed1892cf6e918cb21cb6db77906/cohort_4/playbook)
 
 The goal of Programming Club is to teach new members about coding and have
