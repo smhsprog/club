@@ -85,6 +85,7 @@
 | Saturday 24  | Hackathon  | [GunnHacks](http://gunnhacks.com)              |
 
 - April
+
 | Date         | Week Cycle | Activity                                       |
 |--------------|:----------:|------------------------------------------------|
 | Monday 04    | W2 D1      | [Workshop](meetings/2016_04_04_Meeting_XXX)    |
