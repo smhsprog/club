@@ -83,3 +83,9 @@
 | Monday 21    | W1 D1      | [Workshop](meetings/2016_03_21_Meeting_XXVIII.pdf)|
 | Wednesday 23 | W1 D2      | [Workshop](meetings/2016_03_23_Meeting_XXVIV.pdf)|
 | Saturday 24  | Hackathon  | [GunnHacks](http://gunnhacks.com)              |
+
+- April
+| Date         | Week Cycle | Activity                                       |
+|--------------|:----------:|------------------------------------------------|
+| Monday 04    | W2 D1      | [Workshop](meetings/2016_04_04_Meeting_XXX)    |
+| Wednesday 06 | W2 D2      | [Workshop](meetings/2016_04_06_Meeting_XXXI)   |
