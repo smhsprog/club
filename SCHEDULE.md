@@ -88,5 +88,5 @@
 
 | Date         | Week Cycle | Activity                                       |
 |--------------|:----------:|------------------------------------------------|
-| Monday 04    | W2 D1      | [Workshop](meetings/2016_04_04_Meeting_XXX)    |
-| Wednesday 06 | W2 D2      | [Workshop](meetings/2016_04_06_Meeting_XXXI)   |
+| Monday 04    | W2 D1      | [Workshop](meetings/2016_04_04_Meeting_XXX.pdf)    |
+| Wednesday 06 | W2 D2      | [Workshop](meetings/2016_04_06_Meeting_XXXI.pdf)   |
